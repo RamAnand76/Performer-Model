@@ -91,13 +91,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to reach out with any questions or suggestions! Happy coding!
 
-```
 
-### Instructions
-
-1. **Replace any placeholder text** as needed, especially in the "Usage" section, if you want to add more specific instructions.
-2. **Ensure the `requirements.txt` file** is present in your project with all necessary dependencies listed for easy installation.
-3. You can also include a **License file** if you want to specify the terms under which your project can be used.
-
-Once you're satisfied with the README, you can save it as `README.md` in the root directory of your GitHub repository.
-```
